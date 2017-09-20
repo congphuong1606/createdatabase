@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlitejdbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.5.7.jar!/native/win/sqlitejdbc.dll" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
